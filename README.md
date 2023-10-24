@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @ER-Mustafa
-- 👀 I’m interested in digital art.
-- 🌱 I’m currently learning algorithms and data structures.
-- 💞️ I’m looking to collaborate on nothing for now.
-- 📫 How to reach me: send me a e-mail "mer20@ku.edu.tr"
+- Junior Software Engineer at Apollo IoT
+- Computer Science Student in Koç University
 
+- Interested in all aspects of programming. Love to code :)
+
+Wrote and can write:
+-Java
+-C
+-Python
+-Node.js
+-TypeScript
+-JavaScript
+
+Did work on:
+-Data Science
+-Web Programming
+-Databases
 
