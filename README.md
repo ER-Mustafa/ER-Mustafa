@@ -1,4 +1,4 @@
-- Junior Software Engineer at Apollo IoT
+- Part-Time Developer at Apollo IoT
 - Computer Science Student in Koç University
 
 - Interested in all aspects of programming. Love to code :)
