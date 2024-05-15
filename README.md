@@ -4,15 +4,14 @@
 - Interested in all aspects of programming. Love to code :)
 
 Wrote and can write:
--Java
--C
--Python
--Node.js
--TypeScript
--JavaScript
+- Java
+- C
+- Python
+- TypeScript
+- JavaScript
 
 Did work on:
--Data Science
--Web Programming
--Databases
+- Data Science
+- Web Programming
+- Databases
 
